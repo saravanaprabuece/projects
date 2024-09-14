@@ -1,0 +1,9 @@
+1. To open .dsn simulation files you need Proteus software which can be downloaded easily. (Just Google it Proteus 8.1 Download)
+
+2. To use .hex file , burn it to the microcontroller by using a PICKIT-2 or PICKIT-3 program burner IC.
+
+3. Use the PCBDesign.jpg to print the PCB on a copper board.
+
+4. FinalCircuit.jpg can be used as a reference for the PCBDesign.jpg.
+
+5. PIC16f887 datasheet has been uploaded for reference to the microcontroller used.
