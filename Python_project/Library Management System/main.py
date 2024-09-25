@@ -198,7 +198,7 @@ btn_font = ('Gill Sans MT', 13)
 
 # Initializing the main GUI window
 root = Tk()
-root.title('PythonGeeks Library Management System')
+root.title('Library Management System')
 root.geometry('1010x530')
 root.resizable(0, 0)
 
